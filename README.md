@@ -52,12 +52,6 @@ Clean and User-Friendly UI
 
 <img width="675" height="386" alt="image" src="https://github.com/user-attachments/assets/e8172bc6-f6a1-4452-bfc1-56309b2e2b9a" />
 
- **Project Files**
- 
-"C:\Users\NAJISH\OneDrive\Desktop\Power BI Material\Project\Finance Analysis Dashboard.pbix"
-
-README.md – Project documentation
-
 **Insights Generated**
 
 Identified top revenue-generating products
